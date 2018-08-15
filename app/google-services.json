@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "489281367055",
+    "firebase_url": "https://boosh-6ecd6.firebaseio.com",
+    "project_id": "boosh-6ecd6",
+    "storage_bucket": "boosh-6ecd6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:489281367055:android:06c397a4c95999c2",
+        "android_client_info": {
+          "package_name": "com.example.himanshu.boosh"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "489281367055-e994lt12eqrb0hgqq2h33gr43k5g5icu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.himanshu.boosh",
+            "certificate_hash": "3b5ec7beb2df815b460efb1a98275e154ff3c460"
+          }
+        },
+        {
+          "client_id": "489281367055-6v870iosftjgrukghrm7ifupp9lcnmb1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDWu8jGEppI1-bCzm0XRPGH6HfFwV3Ovec"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "489281367055-6v870iosftjgrukghrm7ifupp9lcnmb1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
